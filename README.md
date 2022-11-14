@@ -29,8 +29,7 @@ I generate all of the tables and figures needed for the technical report of the 
 
 
 * Create the second bar plot by using Matplotlib's pyplot methods.
-
-![TotalTimepoints_plt](https://user-images.githubusercontent.com/108036268/201577026-1b53d61c-d967-4cc1-ab23-1aad09a274ce.png)
+![TotalTimepoints_plt (1)](https://user-images.githubusercontent.com/108036268/201577485-72d60045-d48d-491e-8e56-64f927640cb9.png)
 
 
 * Generate two pie plots. Both plots should be identical and show the distribution of female or male mice in the study.
@@ -41,7 +40,7 @@ I generate all of the tables and figures needed for the technical report of the 
 
 * Create the second pie plot by using Matplotlib's pyplot methods.
 
-![TotalTimepoints](https://user-images.githubusercontent.com/108036268/201577033-7ef85fdc-56fe-44ba-a8c7-79b3a37156f5.png)
+![TotalTimepoints](https://user-images.githubusercontent.com/108036268/201577526-7ddeaa9f-eaa4-436d-9557-07a6cb11d15d.png)
 
 
 
